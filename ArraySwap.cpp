@@ -25,8 +25,8 @@ for (int i = 0; i < N; i++) {
 } 
 int main() { 
 int matrix[N][M] = {{10,20,30}, 
-					{40,50,60}, 
-					{70,80,90}}; 
+		    {40,50,60}, 
+		    {70,80,90}}; 
 int k = 2; 
 rotateMatrix(matrix, k); 
 
